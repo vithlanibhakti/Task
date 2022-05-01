@@ -1,0 +1,15 @@
+for Manually add flights below details are necessary :
+
+
+URL :  http://localhost:4000/add
+Body : {
+    "flightsName": "rjah",
+    "flightsSource": "Rajkot",
+    "flightsDestination": "Ahemdabad",
+    "flightsDate": "2022-05-25",
+    "flightsPrice":"8787"
+}
+
+
+For Frontend/taskfrontend :  npm i and then npm start
+For Backend :  npm i and node app.js or nodemon app.js
